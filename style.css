@@ -1,0 +1,12 @@
+.teslalogo { color: red; font-size: x-large; 
+background-color: black;}
+.black {background-color: black; 
+color: aliceblue;}  
+body { 
+    background-image: url(model-s.jpg);
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-size: contain;
+    background-repeat: no-repeatq
+}
